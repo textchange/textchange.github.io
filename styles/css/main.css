@@ -1,0 +1,22 @@
+.darkBG {
+	background: #46b348;
+}
+
+.darkerBG {
+	background: #ef680e;
+}
+
+.darkestBG {
+	background: #54626f;
+}
+
+.section {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	padding-top: 0;
+	padding-bottom: 0;
+}
